@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout
+		xmlns:android="http://schemas.android.com/apk/res/android"
+		xmlns:tools="http://schemas.android.com/tools"
+		xmlns:app="http://schemas.android.com/apk/res-auto"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		tools:showIn="@layout/app_bar_portada"
+		tools:context=".Portada"
+		android:fitsSystemWindows="true"
+		>
+
+
+	<android.support.v7.widget.RecyclerView
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:id="@+id/listado_componentes"
+			app:layout_behavior="@string/appbar_scrolling_view_behavior"
+			android:layout_marginBottom="20dp"
+			/>
+
+    <android.support.design.bottomappbar.BottomAppBar
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:navigationIcon="@drawable/img_btn_hamburguesa"
+            android:id="@+id/bottom_bar"
+            app:layout_dodgeInsetEdges="right|bottom"
+            android:layout_gravity="bottom"
+            app:fabAlignmentMode="end"
+            app:fabCradleRoundedCornerRadius="12dp"
+            app:backgroundTint="@color/colorPrimary"
+            app:title="CONTRALORÍA"
+			app:hideOnScroll="true"
+			app:titleTextColor="@color/colorBlanco"
+            >
+		<RelativeLayout
+				android:layout_width="match_parent"
+				android:layout_height="match_parent">
+
+			<TextView
+					android:id="@+id/your_title"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="CONTRALORÍA"
+					android:textColor="#fff"
+					android:layout_centerInParent="true"
+					android:textAppearance="@style/Base.TextAppearance.AppCompat.Title"/>
+
+		</RelativeLayout>
+    </android.support.design.bottomappbar.BottomAppBar>
+
+
+</android.support.design.widget.CoordinatorLayout>

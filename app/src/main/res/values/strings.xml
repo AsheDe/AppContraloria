@@ -1,0 +1,410 @@
+<resources>
+    <string name="app_name">Contraloria</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="mision">Misión y Visión</string>
+    <string name="autocontrol">Guía de Autocontrol</string>
+    <string name="buenaspracticas">Buenas Prácticas</string>
+    <string name="ods">ODS</string>
+    <string name="guiaaux">Guía Auxiliar</string>
+    <string name="codetica">Código de ética</string>
+    <string name="portal">Portal Nacional</string>
+    <string name="title_activity_guia__aux">Guía Auxiliar</string>
+    <string name="title_activity_mision">Misión y Visión</string>
+    <string name="content_activity_mision">
+        Auxiliar a la Asamblea Nacional y al Consejo de Estado en la ejecución de la más alta fiscalización sobre los
+        órganos del Estado y Gobierno, proponer la política integral en materia de preservación de las finanzas públicas
+        y el control económico – administrativo, dirigir, ejecutar y comprobar su cumplimiento; dirigir
+        metodológicamente y supervisar el Sistema Nacional de Auditoría, ejecutar las acciones necesarias con el fin de
+        velar por la correcta y transparente administración del patrimonio público, prevenir y luchar contra la
+        corrupción.
+    </string>
+    <string name="content_activity_vision">
+        Somos un órgano del Estado cubano, constitucionalmente reconocido, que se distingue y caracteriza por sus
+        valores éticos, alta profesionalidad y nivel de organización, capaz de influir en la creación de una cultura de
+        responsabilidad, eficiente empleo de los fondos públicos y probidad administrativa, para prevenir y enfrentar
+        indisciplinas, ilegalidades y manifestaciones de corrupción administrativa.
+    </string>
+    <string name="objetivos_desarrollo_sostenible">ODS</string>
+    <string name="guia_auxiliar">Teniendo en cuenta las experiencias acumuladas, como resultado del cumplimiento de las
+        funciones, atribuciones y obligaciones, asignadas a la Contraloría General de la República, por la Ley 107,
+        aprobada por la Asamblea Nacional del Poder Popular el 1ro de agosto del 2009 y particularmente, en su artículo
+        31 inciso k) “supervisar y verificar el proceso de elaboración, ejecución y liquidación del presupuesto del
+        Estado;” y a partir de la sistematización y análisis de las principales limitaciones y deficiencias que se
+        detectan, del estudio de sus tendencias y causas; así como de las políticas y normas legales establecidas,
+        ponemos a disposición de los presidentes de los órganos locales del Poder Popular, a título de recomendación,
+        una herramienta metodológica para el control y fiscalización de los presupuestos locales, como una guía
+        elemental para la organización y planificación del trabajo, debe considerarse como un conjunto de ideas que en
+        su aplicación serán enriquecidas; están inspiradas en la necesidad de ejercer una labor eminentemente preventiva
+        y formadora de una cultura de disciplina, responsabilidad, transparencia, rendición de cuentas y probidad
+        administrativa.
+    </string>
+    <string name="guia_auxiliar0">
+         1. Contribuir a la eficacia en el control y la fiscalización de la ejecución presupuestaria, desde las
+        funciones de dirección que corresponde a los Presidentes de las Asambleas Locales del Poder Popular, en su papel
+        rector de la gobernanza, para favorecer el cumplimiento del Plan y los Objetivos Económicos Sociales aprobados
+        en sus respectivas Asambleas, impregnados del compromiso de cumplir los Lineamientos de la Política Económica y
+        Social del Partido y la Revolución, aprobados en el 7mo. Congreso y en los Objetivos de su Primera Conferencia
+        Nacional.
+
+        \n 2. Perfeccionar y desarrollar a plenitud, los mecanismos de dirección, control y fiscalización en materia
+        presupuestaria, en el interés de elevar la eficacia del gasto público, incrementar los ingresos, con total
+        transparencia y probidad, conjugando las actividades de orientación, asesoramiento, prevención y exigencia
+        oportuna.
+        \n 3. Lograr mayor integralidad, coordinación, armonización y efectividad, en la labor que corresponde a los
+        delegados, Consejos Populares y las comisiones de las asambleas, con las administrativas que corresponden a las
+        direcciones funcionales de los CAP y CAM; situar a éstas últimas en sintonía y frecuencia, con las necesidades,
+        sentir y aporte de la población; en ese objetivo materializar la Rendición de Cuentas de los directivos y lograr
+        la más amplia participación ciudadana.
+
+    </string>
+    <string name="guia_auxiliar1">
+        Es importante fijar en todos los actores que intervienen que:
+        \n El Presupuesto del Estado es la previsión o estimación de gastos y de recursos financieros necesarios para
+        cumplir con los objetivos y compromisos del sector público, en aras de satisfacer las necesidades sociales.
+
+        \n\n Se recomienda:
+        \n Se planifique, organice y ejecute una actividad de capacitación e intercambio mediante una reunión de estudio
+        y puntualización del Consejo de la Administración con los principales directivos y ejecutivos del territorio., a
+        fin de lograr a través de una clara interpretación y el consenso requerido, un adecuado ambiente de control,
+        para dar cumplimiento a : las Directivas, indicadores y orientaciones del Consejo de Ministros, del Ministerio
+        de Economía y Planificación , Ministerio de finanzas y Precios y Ministerios de Trabajo y seguridad Social, así
+        como, de los objetivos y metas previsto para desarrollar el territorio, priorizando los servicios básicos que
+        requiere la población, teniendo en cuenta conciliar los recursos materiales y financieros disponibles y su más
+        racional y optimo aprovechamiento.
+
+        \n\n Se debe tener presente las perspectivas de desarrollo estratégico y las demandas, necesidades y
+        expectativas de la población, deben considerar:
+
+        \n  Plan de desarrollo estratégico y de sostenibilidad del territorio.
+        \n  Resolución del Ministerio de Finanzas y Precios, en la cual se establece el procedimiento para operar los
+        Presupuestos provinciales y municipales.
+        \n  Inventario de problemas y necesidades, conocidas por diversas vías, con prioridad a través de los
+        planteamientos de los electores en las asambleas de rendición de cuenta de los delegados ante sus electores, así
+        como, los recibidos en los despachos y en las quejas y peticiones que se reciben en las oficinas de atención a
+        la población.
+        \n  Previo al proceso de elaboración del anteproyecto deben disponer y puntualizar de manera ordenada las
+        prioridades respecto a los planteamientos, quejas y peticiones. Tomar en cuenta, los estudios y resultado de las
+        zonas más afectadas y con mayores riesgos, según análisis efectuados.
+
+        \n  Información actualizada y verificada, respecto al proceso inversionista en marcha y, respecto a las que se
+        proyectan, el cumplimiento de las normas establecidas, previo a su planificación. El cumplimiento y situación
+        del plan de mantenimiento y reparación.
+        \n  Identificar y evaluar con mucho rigor, los recursos financieros que se requieren planificar para financiar
+        la actividad del sector empresarial, en particular el sector de comercio, por el impacto de éste en los
+        servicios y aseguramientos vitales para la población.
+        \n  Exigir riguroso análisis económico-financiero que justifiquen esa necesidad, evitando que deficiencias
+        administrativas se pretendan amparar en justificaciones.
+        \n  Examinar con rigor y de acuerdo con lo establecido por el Ministerio de Finanzas, los ingresos que se
+        obtengan por el concepto de la Contribución Territorial, ajustándolo a lo establecido.
+
+        \n\n Discusión del anteproyecto
+        \n Conducir y organizar el proceso de discusión del anteproyecto del Plan Económico y del Presupuesto en las
+        entidades económicas y presupuestadas de base, atendiendo a:
+
+        \n\n  Por sectores y actividades, puntualizar las Directivas e Indicaciones aprobadas, que deben ser observadas
+        con rigurosa disciplina y motivación; sin desconocer las limitaciones objetivas, desplegar la iniciativa y el
+        compromiso.
+
+        \n\n  Conocer y exigir a las administraciones que promuevan y aseguren la participación activa de los
+        directivos y ejecutivos, de las direcciones sindicales y de todos los trabajadores, en el proceso de elaboración
+        de los anteproyectos del plan y del presupuesto, correspondiente a cada una de las entidades.
+
+        \n\n  Promover en esta etapa visitas y participación en las asambleas de los colectivos laborales y en el
+        proceso de elaboración, al menos en una muestra de entidades, de los Vicepresidentes y principales directivos de
+        los órganos de administración y de las Comisiones de la Asamblea, tomando en consideración sectores, actividades
+        y centros priorizados.
+
+        \n\n  Establecer el registro, información y análisis de los planteamientos de los trabajadores, en el proceso
+        de discusión del anteproyecto, sus opiniones y sugerencias, por sectores y actividad de acuerdo con las
+        características y relevancias de cada territorio, las que sumadas al resultado que incorpora la presencia y
+        participación de los principales cuadros en este proceso, permitirá disponer de la mayor cantidad de opiniones y
+        criterios para decidir y sustentar con argumentos suficientes, competentes y relevantes, el proyecto que debe
+        ser presentado.
+
+        \n\n En la elaboración de la propuesta de plan y del anteproyecto de presupuesto,
+
+        \n\n Las entidades deben ser orientadas, asesoradas, capacitadas y supervisadas en cuanto a la implementación y
+        aplicación de normas establecidas, significando entre ellas, asuntos que deben ser verificados por los
+        directivos designados, previo a la reunión de presentación y discusión en sus colectivos de dirección y
+        trabajadores, tales como, los que a continuación se significan:
+
+        \n\n  Si disponen de sistemas de costos establecidos en las Unidades gestoras de gasto, para las prestaciones
+        de servicios públicos donde estén determinadas normas unitarias de gastos y los indicadores de eficiencia y
+        eficacia. Sino están establecidas analizar sus causas y promover las acciones para garantizar su
+        establecimiento.
+        \n\n  Precisar si los recursos materiales, humanos y financieros con que cuenta la entidad aseguran el
+        cumplimiento de los presupuestos de gasto corrientes y de capital que se proponen
+        \n\n  Si la estructura organizativa, los procesos, actividades y los puestos de trabajo de la entidad están
+        acorde con la misión y encargo estatal para el cumplimiento de los objetivos y metas del presupuesto, en qué
+        fase de su perfeccionamiento se encuentran y medidas a adoptar.
+
+        \n\n  Identificación de riesgos internos y externos a corto, mediano plazo que pudieran impactar negativamente
+        en el cumplimiento del plan que se proyecta.
+
+        \n\n  Si están planificados los gastos corrientes y de capital que tributan al desarrollo local y al
+        mantenimiento y conservación en correspondencia a un análisis costo-beneficio y sustentado en estudios de
+        factibilidad para los diferentes procesos a ejecutar.
+
+        \n\n  Si la estructura organizativa, los procesos, actividades y los puestos de trabajo de la entidad están
+        acorde con la misión y encargo estatal para el cumplimiento de los objetivos y metas del presupuesto, en qué
+        fase de su perfeccionamiento se encuentran y medidas a adoptar
+
+        \n\n  Identificación de riesgos internos y externos a corto, mediano plazo que pudieran impactar negativamente
+        en el cumplimiento del plan que se proyecta.
+
+        \n\n  Si están planificados los gastos corrientes y de capital que tributan al desarrollo local y al
+        mantenimiento y conservación en correspondencia a un análisis costo-beneficio y sustentado en estudios de
+        factibilidad para los diferentes procesos a ejecutar.
+
+        \n\n  Objetivos de trabajo expresados en términos específicos, medibles y por escrito, así como si hay
+        objetivos definidos y planes para las áreas funcionales o procesos que integran la estructura organizativa.
+
+        \n\n  Si han sido considerados los inventarios como primera fuente de recursos materiales para disminuir la
+        demanda.
+
+        \n Verificar que en la elaboración del plan y del anteproyecto de presupuesto se han tomado como requisitos
+        indispensables: el cumplimiento de las directivas, normas y regulaciones aprobadas por la dirección del Gobierno
+        y los Órganos y Organismos Rectores
+        \n\n Desagregación
+        \n Para cerrar el ciclo de la planeación, una vez recibida la Ley del Presupuesto Anual, el Plan y el
+        Presupuesto del territorio, proceder de igual modo en cuanto a efectuar una reunión de estudio y preparación de
+        todos los directivos y ejecutivos, similar a la sugerida en la etapa de elaboración del anteproyecto, a los
+        efectos de garantizar la información, coordinación, coherencia y unidad de las acciones a desplegar para
+        garantizar un eficaz cumplimiento. Entre las actividades que debe priorizar, destacar:
+
+        \n Prestar particular atención a la desagregación por entidades, unidades y centros de costo de todo el sistema,
+        a los efectos de su más amplia divulgación y discusión con los colectivos de dirección y trabajadores en
+        general, para conocimiento y establecimiento de los compromisos que aseguren su cumplimiento.
+    </string>
+    <string name="guia_auxiliar2">
+       Control sistemático, para la corrección oportuna de cualquier incumplimiento de las normas legales
+        establecidas o desviación, indisciplina o cualquier manifestación negativa.
+
+        \n\n En esta etapa el eslabón fundamental en este proceso lo constituye la unidad gestora y de los
+        administradores de dichas entidades durante el proceso de ejecución del presupuesto al ser responsables de la
+        administración y control de la ejecución de los presupuestos que les sean aprobados; así como de adoptar las
+        medidas para que cumplan sus obligaciones con el Presupuesto del Estado y garanticen la utilización más racional
+        de los recursos materiales, humanos y financieros de que dispongan, sin exceder los niveles de gastos
+        presupuestarios y los indicadores directivos y de destino especifico, que les son aprobados para el año 2016.
+        previsto en la Ley No. 120 del Presupuesto del Año 2016 en su artículo 13.
+        Velar por el correcto y oportuno registro contable de los gastos en correspondencia a con lo establecido en la
+        Ley No. 120 artículos del 57 al 70, al permitir las evaluaciones periódicas de los resultados presupuestarios
+        para la toma de decisiones y, realizar los ajustes correspondientes a las cifras notificadas de sus
+        presupuestos.
+        Ejercer controles periódicos para validar el uso eficiente y eficaz de los recursos asignados, mediante
+        verificaciones presupuestarias, siendo el objetivo principal de estas el determinar si los recursos asignados
+        han sido empleados no solo dentro de los marcos aprobados (eficiencia), sino también para cumplir con los
+        objetivos previstos (eficacia).
+        Otro aspecto de medular importancia lo constituye la desegregación y programación adecuada de los presupuestos
+        aprobados y notificados, que posibilita la asignación de recursos financieros necesarios en función de los
+        requerimientos de las producciones o servicios que brindan, a los efectos de cumplir los objetivos previstos y
+        garantizar la eficiencia en el uso de los mismos.
+        Determiner el nivel de inmovilización de recursos presupuestarios, a partir de la información que reciben de las
+        unidades presupuestadas, empresas y entidades adscriptas, teniendo en cuenta la evaluación del comportamiento de
+        los inventarios, debiendo centrarse en la determinación de la cobertura de inventarios, el análisis de los
+        inventarios ociosos y de lento movimiento, el comportamiento de la proporción anual entre las compras de
+        materiales, el presupuesto de gasto material y el comportamiento de las cuentas por pagar a proveedores
+        asociadas con este elemento, plan y real, evaluar si se encuentran identificadas las causas de las variaciones
+        entre el plan y el real.
+        Verificar la correspondencia de la ejecución presupuestaria con el cumplimiento de los niveles de actividad y
+        objetivos del plan de la economía aprobado, y se deberá tener presente además del cumplimiento de la ejecución
+        presupuestaria y de los niveles de actividad aprobados, el análisis del comportamiento real del sistema de
+        normas de Gasto para la actividad presupuestada establecido y aprobado en la Resolución No.3 del 2013 del MFP.
+    </string>
+    <string name="guia_auxiliar3">
+        Los Consejos de la Administración deben prestarle especial atención a las Notas o Memorias de los Estados
+        Financieros de Gobierno con el propósito fundamental de que éstas constituyan la herramienta de Control que
+        sirva de base al análisis que realizan los Consejos Económicos Territoriales, exigiendo para ello la inclusión y
+        el análisis de:
+
+        \n  Indicadores de gestión propios de la entidad o diseñar los indicadores de economía, eficiencia y eficacia,
+        que se requieran para medir la gestión económica financiera y el cumplimiento de los Ciclos de Gastos.
+        \n  Los Presidentes de los Consejos de la Administración Local, deben tener en cuenta en su plan de trabajo
+        individual, dedicar el tiempo necesario a su preparación y activa participación en el proceso de análisis de las
+        Notas o Memorias de los Estados Financieros, dada la alta responsabilidad que conlleva su aprobación, que se
+        suscribe y oficializa con su firma personal, lo que significa que no es una tarea delegable.
+
+        \n\n  Las solicitudes de modificaciones presupuestarias que presentan los jefes de las unidades presupuestadas,
+        para la aprobación del Presidente, deben realizarse con la oportunidad, objetividad y fundamentación requerida
+        garantizando su comprobación, previo a su aprobación.
+        \n\n  La calidad de los informes valorativos sobre la ejecución del plan y el presupuesto, que deben presentar
+        mensualmente las direcciones administrativas de las entidades a las direcciones de Economía y Planificación y de
+        Finanzas y Precios, deben ser conciliados con la información financiera que se reporta en los estados
+        financieros a la ONEI. Cualquier variación o incongruencia es una señal que debe observarse para}
+
+        \n\n  Apoyados en la referida información, mensualmente debe realizarse un análisis detallado del
+        comportamiento de la ejecución presupuestaria, de existir inejecuciones o sobre ejecuciones en las Partidas y
+        elementos, determinar las causas; analizar si se adoptaron medidas preventivas que garanticen la efectividad de
+        la ejecución y determinar que faltó o que falló en el proceso: errores en la planificación de la partida, falta
+        de gestión de la administración, falta de exigibilidad en el cumplimiento de la contratación.
+
+        \n\n  Estos informes deben contener el análisis de la correspondencia de la ejecución de los presupuestos de
+        gastos y de caja, en el interés de evitar unidades presupuestadas con disponibilidad negativa de recursos
+        financieros. Cuando esto se presenta es una clara señal de que se ha gastado más que lo aprobado y de inmediato
+        debe ser esclarecido o investigado.
+        \n\n  Comprobar que la contabilidad se encuentra actualizada, sea fiable y se corresponda con las informaciones
+        mensuales sobre la ejecución del presupuesto. De existir dificultades, deben precisarse éstas y elaborar un
+        programa de trabajo que se apoye y chequee sistemáticamente.
+        \n\n  Especial atención debe observarse en cuanto a los gastos de personal por su peso específico entre los
+        gastos y el conocimiento de violaciones que se manifiestan de diversas formas. Insistir en las medidas de
+        capacitación, asesoramiento, autocontrol y verificaciones.
+
+        \n\n  Prestar atención priorizada al funcionamiento y control de las Tesorerías Municipales y Provinciales, con
+        una clara identificación de los riesgos que pueden presentarse por no completamiento e inestabilidad del
+        personal, carencias en su preparación y de las normas y procedimientos que deben aplicarse para garantizar un
+        funcionamiento eficiente y prevenir indisciplinas, desviaciones y delitos.
+
+        \n\n  La programación de caja debe estar en correspondencia a la programación y ejecución presupuestaria;
+        optimizar los movimientos de recursos monetarios dentro del sistema de cuentas buscando un equilibrio en la
+        ejecución y la asignación de los recursos financieros.
+
+        \n\n  Verificar si se manifiesta inmovilización de recursos financieros en las cuentas, si se asignan los
+        recursos en la medida del cumplimiento del plan, garantizando las disponibilidades financieras necesarias para
+        enfrentar los niveles de gastos programados y atender contingencias.
+
+        \n\n  Prestar particular atención a las operaciones que se realizan con el sector no estatal de la economía,
+        exigiendo que las direcciones administrativas del sector estatal, establezcan procedimientos internos en los
+        cuales se definan niveles de autorización y monto para su aprobación. Establecer coordinación con el Banco y la
+        Dirección de Finanzas, para de acuerdo con los mecanismos establecidos detectar y fiscalizar oportunamente
+        operaciones sospechosas.
+
+        \n\n  Exigir el análisis acerca del comportamiento de las normas de gastos y su impacto en la ejecución de los
+        niveles de actividad, en particular el consumo de combustible. Verificar la información y realizar análisis de
+        sus resultados generales y por vehículos (correspondientes al área que lo analiza), en los Consejos de Dirección
+        y Asambleas con los trabajadores
+        \n\n  Comprobar por todas las vías y mecanismos que disponen, (inspectores, comprobadores, verificadores,
+        auditores, informaciones de la ONEI y FINCIMEX), el cumplimiento de lo dispuesto y apreciar las desviaciones u
+        operaciones dudosas.
+
+        \n\n  Promover acciones de capacitación y asesoramiento al tema de la contratación y la gestión de cobros y
+        pagos; elevar la exigencia en cuanto al funcionamiento de los Comités de Compra; promover mecanismos y
+        procedimientos para que previo a cerrar un contrato se verifiquen las existencias en los inventarios, para que
+        constituyan realmente fuentes del plan, disminuyan los inventarios ociosos y de lento movimiento, operaciones
+        que entre sí tienen que estar sistémicamente conectadas.
+        \n\n  Establecer un mecanismo de trabajo que le permita evaluar como mínimo trimestralmente, el seguimiento del
+        programa para el otorgamiento de subsidios a la población para la reparación y construcción de viviendas, en el
+        que deben participar las direcciones de Trabajo, Finanzas, Planificación Física y Vivienda, según corresponda.
+        Coordinar conciliaciones con las Agencias Bancarias que operan en el territorio y prestan servicios relacionados
+        con esta actividad.
+
+        \n\n  Organizar con las diferentes fuerzas que dispone de las direcciones globales y el cuerpo de inspectores,
+        la verificación en relación con el financiamiento otorgado y lo ejecutado, por conceptos y físico.
+
+        \n\n  No delegar esta tarea por lo sensible que resulta y por el esfuerzo que realiza la Revolución para elevar
+        el nivel de vida del pueblo.
+
+        \n\n  Prestar especial atención al comportamiento de los aportes, en cantidad y en las fechas o periodos
+        correspondientes, en particular del superávit y de los ingresos tributarios y no tributarios de las personas
+        jurídicas y naturales, según corresponda.
+
+        \n\n  Considerar el análisis priorizado del cobro de las multas, buscando en ello no solo la disciplina sino
+        también, el análisis de tendencias, causas y otros elementos que permitan el enfrentamiento más efectivo y la
+        promoción de una labor preventiva que impacte en la formación de la cultura ciudadana.
+
+        \n\n  Dirigir las visitas de control que realizan las Comisiones de las Asambleas Provinciales y Municipales, a
+        las áreas o actividades más sensibles de la población y tener en cuenta estos resultados como contrapartida de
+        los procesos de rendición de cuentas, que realizan los jefes de las direcciones administrativas de las entidades
+        a las Asambleas, CAP y CAM, según corresponda. Recomendamos utilizar la metodología de la Resolución 32/2016
+        “Identificación y Cuantificación de Daños y Perjuicios Económicos al Patrimonio Público” de la CGR, que precisa
+        los diferentes conceptos y derivado de ello realizar el análisis valorativo, con espíritu crítico y emprendedor.
+        \n\n  Fortalecer el control popular prestándole mayor atención y prioridad a los resultados de las acciones de
+        Fiscalización que realizan los Consejos Populares, con el objetivo de evaluar el elemento gestión “calidad del
+        gasto” y como contra-partida de los procesos de rendición de cuentas y análisis de la ejecución del presupuesto
+        en las Asambleas, CAP y CAM, según corresponda.
+
+
+        \n En esta etapa realmente lo que sucede es la evaluación de los resultados del trabajo logrados en las etapas
+        de planificación y ejecución, se mide la eficiencia y
+        eficacia del gasto y el impacto que ha tenido en la calidad de los servicios, en la elevación del nivel de vida
+        del pueblo. Debemos observar con prioridad:
+    </string>
+    <string name="guia_auxiliar4">
+        Garantizar que el informe de liquidación del presupuesto provincial o municipal, según corresponda, este
+        precedido de un proceso de análisis y consulta en diferentes instancias que asegure la necesaria contrapartida a
+        las direcciones de Economía y Planificación, de Finanzas y Precios y de Trabajo y Seguridad Social, a los
+        efectos de presentar a la Asamblea un informe objetivo y crítico que refleje la gestión del gobierno y los
+        resultados de la ejecución presupuestaria y su relación con el plan de la economía.
+
+
+        \n\n  El informe debe seguir las normas establecidas por el Ministerio de Finanzas y Precios. Prestar atención
+        al análisis de las causas de las desviaciones de los ingresos y gastos; comportamiento de los niveles de
+        actividad y de las obligaciones tributarias de los contribuyentes, tanto de personas jurídicas como naturales,
+        el cumplimiento de las recomendaciones formuladas en las acciones de control que realiza la CGR y la propuesta
+        de acciones para mejorar la gestión y el control del presupuesto para el siguiente año.
+        \n\n  El informe de liquidación debe abordar la correspondencia o no de la ejecución presupuestaria, con el
+        cumplimiento de los niveles de actividad y objetivos del Plan de la Economía aprobado y el análisis del
+        comportamiento real del Sistema de Normas de Gasto para la actividad presupuestada, establecido y aprobado en
+        cumplimiento de lo dispuesto en la Resolución No. 3/2013 del MFP
+    </string>
+    <string name="title_activity_guia_autocontrol">Guía de Autocontrol</string>
+    <string name="title_activity_buenas_practicas">Buenas Prácticas</string>
+    <string name="contenido_buenas_practicas">
+        Para controlar en las diferentes etapas los procesos de elaboración, ejecución y liquidación del
+        presupuesto, tener presente un concepto básico que debe ser aplicable en toda actividad de dirección, en cuanto
+        a que:
+        \n\n Un verdadero sistema de control interno, para que sea efectivo, debe comenzar siempre con actividades de
+        orientación, asesoramiento, educación e identificación de riesgos y que se retroalimenta en la práctica del
+        trabajo con la detección de limitaciones, deficiencias y violaciones, al realizar el análisis de causas y
+        condiciones que la generaron, y con la adopción de las medidas de rectificación o correctivas.
+    </string>
+    <string name="contenido_buenas_practicas2">
+        -Que los cuadros, dirigentes en primer lugar y extendido a los funcionarios y todos los trabajadores,
+        estudien, debatan y conozcan a profundidad los objetivos y lineamientos del partido y lo relacionen con cada
+        tarea o actividad que se ejecuta en lo que les corresponde. en ello esta resumido, sintetizado, lo esencial de
+        nuestros propósitos para el desarrollo próspero y sostenible. esta reafirmada nuestra ética, valores y
+        principios.\n"
+        "\n -la política de cuadros, la selección, la atención, la educación que se le brinde con el ejemplo en la
+        palabra y en los hechos.\n"
+        "\n -que para aplicar cada política orientada, cada tarea que de ellas se derivan, debemos conocer, estudiar,
+        interpretar correctamente y trabajar cotidianamente con las normas legales que sustentan la política.\n"
+        "\n -que para todo lo que vamos a emprender o desarrollar tenemos que tener claro, los procedimientos, las
+        responsabilidades, las contrapartidas, los riesgos y la medidas preventivas para aminorar los riesgos.\n"
+        "\n -no se trata de incorporar nuevas o mas actividades, sino desarrollar un pensamiento integrador, mayor
+        coordinación, conciliación.\n"
+        "\n -no debemos hacer cosas sin conexión, sin integración. la garantia de la sistematización esta en tener
+        buenos sistemas. en fortalecer el funcionamiento de los organos de dirección, con organización, para que no
+        constituyan actos formales, sino amplios espacios participativos y ello requiere de mayor información y
+        preparación.\n"
+        "\n -asegurar que las personas asuman su responsabilidad en los organos de dirección, sean capacitadas, que
+        estudien, piensen y sean escuchadas.\n
+
+    </string>
+    <string name="title_activity_ods">ODS</string>
+    <string name="title_activity_codigo_etica">Código de Ética</string>
+    <string name="content_autocontrol">"Estimadas compañeras, estimados compañeros: \n
+        " \nPonemos en sus manos, una nueva Caja de Herramienta para las Administraciones, en esta ocasión, dirigida a
+        instruir y favorecer al ejercicio del Auto Control. Es justo significar la dedicación del colectivo de
+        Contralores y Auditores de la Contraloría General de la República, que hemos contado con la valiosa colaboración
+        de la Comisión para la Implementación y Desarrollo de los Lineamientos, de los Organismos de la Administración
+        Central del Estado, Instituciones Nacionales y Unidades del Sistema Nacional de Auditoría, mediante consultas e
+        intercambios, todo lo que nos ha permitido ofrecer una nueva edición de la Guía de Autocontrol, actualizada con
+        la legislación vigente, al cierre del presente mes de enero del 2019. \n
+        " \n1 La Guía de Autocontrol que les ofrecemos, tiene la novedad, con toda intención, de contener en folletos
+        independientes, cada uno de sus Componentes que integran el Sistema de Control Interno, a los efectos de
+        facilitar su análisis, en sus respectivos Consejos de Dirección, con mayor detalle y profundidad, como resultado
+        de un trabajo más participativo e interactivo y derivado de ello, avanzar en la adopción de acuerdos y medidas
+        para garantizar el perfeccionamiento de la labor de prevención ante los riesgos de cualquier naturaleza que se
+        presentan afectando el cumplimiento con mayor eficiencia de sus objetivos, indicadores y metas. Contiene,
+        además, un folleto Anexo Único, con la Relación de las Principales Normativas, que también ofrecemos en formato
+        digital, para facilitarles el trabajo en cuanto a su localización, estudio, consulta y aplicación. \n
+        " \n2 De manera especial, entregamos un folleto, elaborado en homenaje a José Martí en el 166 Aniversario de su
+        Natalicio. Contiene una nueva versión del editado en el 2002 titulado Presencia Martiana en el Código de Ética,
+        a la que incorporamos una pequeña selección de pensamientos del Comandante en Jefe, relacionados con los
+        preceptos. En su integración se aprecia con nitidez, la esencia y el hilo conductor que garantiza la continuidad
+        de los principios e ideales de la Revolución Cubana, sobre lo cual, en su introducción se amplía. A pesar de la
+        insistencia y sistematicidad en los controles y actividades de capacitación que ofrecemos, la experiencia nos
+        muestras que en la mayoría de las entidades controladas, es insuficiente y formal la aplicación de la Guía de
+        Autocontrol, fundamentalmente al pretender evaluar en una reunión del Consejo de Dirección que tienen, por lo
+        general, gran cantidad de temas, el \n
+        " \n3 Resultado de la aplicación de la totalidad de los aspectos contenidos en ésta Guía, informe que en muchos
+        casos, es el resultado del trabajo individual de un especialista. Conclusiones, apenas existen pronunciamientos
+        críticos y autocríticos, no se debate, no se proponen nuevas medidas y actualizaciones.
+    </string>
+    <string name="title_activity_presentacion">Presentacion</string>
+    <string name="title_activity_video__ods">Video ODS</string>
+    <string name="title_activity_actividades">Actividades</string>
+
+
+</resources>

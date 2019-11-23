@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="app_bar_height">260dp</dimen>>
+    <dimen name="nav_header_height">280dp</dimen>
+    <dimen name="text_margin">24dp</dimen>>
+    <integer name="cols_ods">2</integer>>
+</resources>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+		<item
+				android:id="@+id/menu_presentacion"
+				android:icon="@drawable/imgcheck"
+				android:iconTint="@color/colornegro_900"
+				android:title="Presentación"
+
+		/>
+	    <item
+			    android:id="@+id/menu_mision"
+			    android:icon="@drawable/imgcheck"
+			    android:iconTint="@color/colornegro_900"
+				android:title="@string/mision"
+
+			    />
+	    <item
+			    android:id="@+id/menu_guia_autocontrol"
+			    android:icon="@drawable/imgcheck"
+			    android:iconTint="@color/colornegro_900"
+				android:title="@string/autocontrol"
+			    />
+	    <item
+			    android:id="@+id/menu_buenas_practicas"
+			    android:iconTint="@color/colornegro_900"
+				android:title="@string/buenaspracticas"
+				android:icon="@drawable/imgcheck"
+			    />
+		<item
+				android:id="@+id/menu_ods"
+				android:iconTint="@color/colornegro_900"
+				android:title="@string/ods"
+				android:icon="@drawable/imgcheck"
+		/>
+		<item
+				android:id="@+id/menu_guia_auxiliar"
+				android:iconTint="@color/colornegro_900"
+				android:title="@string/guiaaux"
+				android:icon="@drawable/imgcheck"
+		/>
+
+		<item
+				android:id="@+id/menu_portal_nacional"
+				android:iconTint="@color/colornegro_900"
+				android:title="@string/portal"
+				android:icon="@drawable/imgcheck"
+		/>
+    </group>
+
+
+
+
+</menu>

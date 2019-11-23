@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="cu.edu.uo.informatizacion.contraloria">
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+
+    <application
+            android:allowBackup="true"
+            android:icon="@mipmap/icono"
+            android:label="@string/app_name"
+            android:supportsRtl="true"
+            android:theme="@style/AppTheme"
+            android:grantUriPermissions="true">
+        <!-- Needed for Android >= Nougat for file access-->
+        <provider
+                android:name="android.support.v4.content.FileProvider"
+                android:authorities="cu.edu.uo.informatizacion.contraloria.myprovider"
+                android:exported="false"
+                android:grantUriPermissions="true">
+            <meta-data
+                    android:name="android.support.FILE_PROVIDER_PATHS"
+                    android:resource="@xml/rutas_pdf"/>
+        </provider>
+        <activity
+                android:name=".Actividades"
+                android:label="@string/title_activity_actividades"
+                android:theme="@style/AppTheme.NoActionBar">
+        </activity>
+        <activity
+                android:name=".Video_ODS"
+                android:label="@string/title_activity_video__ods"
+                android:parentActivityName=".ODS"
+                android:screenOrientation="landscape"
+                android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                    android:name="android.support.PARENT_ACTIVITY"
+                    android:value="cu.edu.uo.informatizacion.contraloria.ODS"/>
+        </activity>
+        <activity
+                android:name=".ODS"
+                android:label="@string/title_activity_ods"
+                android:parentActivityName=".Portada">
+            <meta-data
+                    android:name="android.support.PARENT_ACTIVITY"
+                    android:value="cu.edu.uo.informatizacion.contraloria.Portada"/>
+        </activity>
+        <activity
+                android:name=".BuenasPracticas"
+                android:label="@string/title_activity_buenas_practicas"
+                android:parentActivityName=".Portada">
+            <meta-data
+                    android:name="android.support.PARENT_ACTIVITY"
+                    android:value="cu.edu.uo.informatizacion.contraloria.Portada"/>
+        </activity>
+        <activity
+                android:name=".GuiaAutocontrol"
+                android:label="@string/title_activity_guia_autocontrol"
+                android:parentActivityName=".Portada">
+            <meta-data
+                    android:name="android.support.PARENT_ACTIVITY"
+                    android:value="cu.edu.uo.informatizacion.contraloria.Portada"/>
+        </activity>
+        <activity
+                android:name=".Mision"
+                android:label="@string/title_activity_mision"
+                android:parentActivityName=".Portada">
+            <meta-data
+                    android:name="android.support.PARENT_ACTIVITY"
+                    android:value="cu.edu.uo.informatizacion.contraloria.Portada"/>
+        </activity>
+        <activity
+                android:name=".Guia_Aux"
+                android:label="@string/title_activity_guia__aux"
+                android:parentActivityName=".Portada">
+            <meta-data
+                    android:name="android.support.PARENT_ACTIVITY"
+                    android:value="cu.edu.uo.informatizacion.contraloria.Portada"/>
+        </activity>
+        <activity
+                android:name=".Detalles_Componente"
+                android:parentActivityName=".Portada"
+                android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                    android:name="android.support.PARENT_ACTIVITY"
+                    android:value="cu.edu.uo.informatizacion.contraloria.Portada"/>
+        </activity>
+        <activity
+                android:name=".MainActivity"
+                android:theme="@style/AppTheme.NoActionBar"
+                android:noHistory="true"
+            >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity
+                android:name=".Portada"
+                android:theme="@style/AppTheme.NoActionBar">
+        </activity>
+    </application>
+
+</manifest>
